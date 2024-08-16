@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_brizy_docs=self.webpackChunk_brizy_docs||[]).push([[1325],{3442:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"docs-internals"}')}}]);

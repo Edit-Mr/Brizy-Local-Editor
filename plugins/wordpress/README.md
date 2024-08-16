@@ -1,3 +1,0 @@
-# Integrate Third Party inside brizy WordPress plugin
-
-## TODO...
