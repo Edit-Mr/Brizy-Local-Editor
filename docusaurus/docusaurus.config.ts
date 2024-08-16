@@ -6,7 +6,7 @@ const config: Config = {
   title: "Brizy",
   tagline: "White label self-hosted builder",
   favicon: "img/favicon.ico",
-
+onBrokenLinks: "ignore" //IDGAF
   // Set the production url of your site here
   url: "https://www.brizy.io",
   // Set the /<baseUrl>/ pathname under which your site is served
