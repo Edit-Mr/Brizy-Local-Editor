@@ -15,8 +15,6 @@ onBrokenLinks: "ignore", //IDGAF
 
   organizationName: "brizy",
   projectName: "brizy-local",
-
-  onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
